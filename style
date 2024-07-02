@@ -1,17 +1,7 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>smile</title>
-</head>
-<body>
-<section>
-<h1>Hello</h1>
-<h2>Hello</h2>
-<p>Hello</p>
-</section>
-section {color:green;}
-</form>
-</body>
-</html>
+<style>
+    p {
+    color: yellow;
+    background-color: black;
+    }
+    </style>
+    
